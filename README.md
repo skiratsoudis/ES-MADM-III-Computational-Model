@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17933975.svg)](https://doi.org/10.5281/zenodo.17933975)
+
 # ES-MADM III – Computational Model
 
 This repository provides the official computational implementation of the
