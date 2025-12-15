@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "ES-MADM III: Computational Model"
+message: "If you use this software, please cite it as described below."
+type: software
+authors:
+  - family-names: Kiratsoudis
+    given-names: Sideris
+    orcid: "https://orcid.org/0009-0006-0584-2751"
+version: 1.0.0
+date-released: 2025-12-15
+license: MIT
+repository-code: "https://github.com/skiratsoudis/ES-MADM-III-Computational-Model"
+keywords:
+  - Multi-Criteria Decision Making
+  - Entropy
+  - ES-MADM
+  - Decision Analysis
+  - Numerical Well-Posedness
