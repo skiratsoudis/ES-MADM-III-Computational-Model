@@ -1,4 +1,22 @@
 ###############################################################################
+# ES-MADM III — Computational Model
+#
+# Official computational implementation of the ES-MADM III framework.
+# This script contains the core numerical procedures only.
+#
+# Scope:
+#  - Entropy-based objective weighting
+#  - Integrated Criteria Importance (ICI)
+#  - Stability- and distinguishability-aware ranking indices
+#
+# Notes:
+#  - Visualization and plotting routines are intentionally excluded.
+#  - This file constitutes the single source of truth for numerical results.
+#
+# Author: Sideris Kiratsoudis
+# License: MIT
+###############################################################################
+###############################################################################
 # Filename: ESMADMIII_FinalAlphaVariation.R
 # ES-MADM III: Fuzzy Preference-Enhanced MADM with robust code & per-criterion α
 ###############################################################################
@@ -1280,3 +1298,4 @@ server <- function(input, output, session){
 ########################################
 
 shinyApp(ui=ui, server=server)
+
