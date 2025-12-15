@@ -22,4 +22,41 @@ reproducibility, and methodological transparency.
 
 ## Repository Structure
 
+ES-MADM-III-Computational-Model/
+├── code/ # Core R implementation of ES-MADM III
+├── README.md # Project description and usage notes
+├── LICENSE # MIT License
+---
+
+## Requirements
+
+- R (version ≥ 4.2)
+- Standard R packages as declared in the source code
+
+No external software or proprietary dependencies are required.
+
+---
+
+## Usage
+
+The main R script located in the `code/` directory implements the complete
+computational workflow of the ES-MADM III model.
+
+Users may adapt input data and parameters according to their specific
+decision-making context.
+
+---
+
+## Citation
+
+If you use this software in academic work, please cite the associated Zenodo DOI
+(which will be generated upon public release of this repository).
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+
 
