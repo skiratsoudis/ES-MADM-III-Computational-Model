@@ -30,6 +30,13 @@ ES-MADM-III-Computational-Model/
 ├── LICENSE # MIT License
 ---
 
+## Case Study Data
+
+The Excel input datasets used in the case study experiments reported in the
+associated publication are provided in the `data/case_study_inputs` directory.
+These datasets are directly compatible with the ES-MADM III computational core
+and enable full reproducibility of the reported results.
+
 ## Requirements
 
 - R (version ≥ 4.2)
