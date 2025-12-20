@@ -58,8 +58,10 @@ decision-making context.
 
 ## Citation
 
-If you use this software in academic work, please cite the associated Zenodo DOI
-(which will be generated upon public release of this repository).
+If you use this software or the associated datasets in academic work, please
+cite the corresponding Zenodo record:
+
+https://doi.org/10.5281/zenodo.17933975
 
 ---
 
